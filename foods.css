@@ -1,0 +1,320 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.see{
+    margin: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.love{
+    display: flex;
+}
+.love .arrow{
+    margin-top: 60px;
+    margin-left: 30px;
+}
+.love .arrow i{
+    padding: 10px 10px 10px 10px;
+    border-radius: 50%;
+    background-color: transparent;
+    border: 2px solid black;
+    font-size: 15px;
+    margin-left: 10px;
+}
+.lah{
+    height: 170px;
+    width: 300px;
+    background-color: gainsboro;
+    margin-left: 92px;
+    border-radius: 40px;
+}
+.lah #kop{
+    color: rgb(248, 59, 90);
+    font-size: 20px;
+    margin-left: 20px;
+    position: relative;
+    top: 20px;
+} 
+.food{
+    display: flex;
+    margin-left: -30px;
+    margin-top: 5px;
+}
+.food img{
+    height: 100px;
+    margin-top: 17px;
+}
+.majon{
+    margin-left: 20px;
+}
+.majon h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.majon h4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+    font-size: 20px;
+}
+.from{
+    display: flex;
+    margin-top: 10px;
+}
+.from #cod{
+    font-size: 18px;
+    color: red;
+}
+.from h4{
+    font-size: 18px;
+    margin-left: 10px;
+}
+.veg{
+    display: flex;
+    margin-top: 20px;
+}
+.veg button{
+    height: 30px;
+    width: 60px;
+    background: linear-gradient(to right, purple, blue);
+    border-radius: 30px;
+    border: none;
+    color: white;
+    font-size: large;
+}
+.veg i{
+    padding: 10px 10px 10px 10px;
+    border-radius: 50%;
+    color: white;
+    margin-left: 20px;
+    background: linear-gradient(to top, yellow, rgb(6, 248, 248));   
+}
+
+.popu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px;
+    margin-top: 50px;
+}
+.popu h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.popu .arrow-lar i{
+    padding: 10px 10px 10px 10px;
+    border-radius: 50%;
+    background-color: transparent;
+    border: 2px solid black;
+    font-size: 15px;
+    margin-left: 10px;
+}
+.sam{
+    display: flex;
+    margin-top: 90px;
+    margin-left: 30px;
+}
+.tom{
+    height: 260px;
+    width: 190px;
+    margin-left: 60px;
+    background-color: gainsboro;
+    border-radius: 40px;
+}
+.tom #fish{
+    color: rgb(248, 59, 90);
+    font-size: 20px;
+    margin-left: 140px;
+    top: 20px;
+    position: relative;
+}
+.tom img{
+    height: 100px;
+    margin-left: -20px;
+}
+.tom h3{
+    margin-left: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.tom h4{
+    margin-left: 20px;
+    font-weight: lighter;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.frog{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.frog #cod{
+    font-size: 18px;
+    color: red;
+}
+.frog h4{
+    font-size: 15px;
+    margin-left: 10px;
+    font-weight: bolder;
+}
+.vog{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.vog button{
+    height: 30px;
+    width: 60px;
+    background: linear-gradient(to right, purple, blue);
+    border-radius: 30px;
+    border: none;
+    color: white;
+    font-size: large;
+}
+.vog i{
+    padding: 10px 10px 10px 10px;
+    border-radius: 50%;
+    color: white;
+    margin-left: 50px;
+    background: linear-gradient(to top, yellow, rgb(6, 248, 248));   
+}
+.tomx{
+    height: 260px;
+    width: 190px;
+    margin-left: 60px;
+    background-color: gainsboro;
+    border-radius: 40px;
+    margin-top: 50px;
+}
+.tomx #fish{
+    color: rgb(248, 59, 90);
+    font-size: 20px;
+    margin-left: 140px;
+    top: 20px;
+    position: relative;
+}
+.tomx img{
+    height: 100px;
+    margin-left: -20px;
+}
+.tomx h3{
+    margin-left: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.tomx h4{
+    margin-left: 20px;
+    font-weight: lighter;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ 
+.tox{
+    height: 260px;
+    width: 190px;
+    margin-left: 60px;
+    background-color: gainsboro;
+    border-radius: 40px;
+    margin-top: -30px;
+}
+.tox #fish{
+    color: rgb(248, 59, 90);
+    font-size: 20px;
+    margin-left: 140px;
+    top: 20px;
+    position: relative;
+}
+.tox img{
+    height: 100px;
+    margin-left: -20px;
+}
+.tox h3{
+    margin-left: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.tox h4{
+    margin-left: 20px;
+    font-weight: lighter;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.sat{
+    display: flex;
+    margin-top: 90px;
+    margin-left: 30px;
+}
+
+
+.poll{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 30px;
+    align-items: center;
+}
+.poll .lapo #lap{
+    padding: 10px 10px 10px 10px;
+    border-radius: 50%;
+    background-color: transparent;
+    border: 2px solid black;
+    font-size: 15px;
+    margin-left: 10px;
+}
+.salad{
+    height: 220px;
+    width: 300px;
+    background-color: gainsboro;
+    border-radius: 40px;
+    margin-left: 70px;
+}
+.salad #fish{
+    color: rgb(248, 59, 90);
+    font-size: 20px;
+    margin-left: 260px;
+    top: 20px;
+    position: relative;
+}
+.soc{
+    display: flex;
+}
+.soc img{
+    height: 70px;
+    width: 80px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+.rest{
+    margin-left: 10px;
+    margin-top: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.star{
+    display: flex;
+    margin-top: 6px;
+}
+.star #bom{
+    color: yellow;
+    margin-left: 3px;
+    font-size: 12px;
+}
+.star h5{
+    margin-left: 9px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.zar{
+    display: flex;
+    margin-top: 30px;
+}
+.gom img{
+    height: 60px;
+}
+.gom h3{
+    margin-left: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.lapo #lat{
+    padding: 10px 10px 10px 10px;
+    border-radius: 50%;
+    background-color: transparent;
+    border: 2px solid black;
+    font-size: 15px;
+    margin-left: 50px;
+}
